@@ -288,7 +288,7 @@ float:right;
 #content {
 
 	float: right;
-   width: auto;
+    width: auto;
 	margin: 20px;
 ;
 
@@ -757,6 +757,9 @@ color:black;}
 	z-index: -1;
 	font-family: Bell MT;
 	text-align: left;
+}
+.faqtext {
+	font-family: Tahoma, Geneva, sans-serif;
 }
 
 #faqtitle {
